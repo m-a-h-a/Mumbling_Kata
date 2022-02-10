@@ -1,0 +1,12 @@
+C:\Dev\Katas\Mumble\Mumble\bin\Debug\net6.0\Mumble.deps.json
+C:\Dev\Katas\Mumble\Mumble\bin\Debug\net6.0\Mumble.dll
+C:\Dev\Katas\Mumble\Mumble\bin\Debug\net6.0\ref\Mumble.dll
+C:\Dev\Katas\Mumble\Mumble\bin\Debug\net6.0\Mumble.pdb
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.csproj.AssemblyReference.cache
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.AssemblyInfoInputs.cache
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.AssemblyInfo.cs
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.csproj.CoreCompileInputs.cache
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.dll
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\ref\Mumble.dll
+C:\Dev\Katas\Mumble\Mumble\obj\Debug\net6.0\Mumble.pdb
